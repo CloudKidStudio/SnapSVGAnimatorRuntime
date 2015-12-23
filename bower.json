@@ -1,7 +1,7 @@
 {
-	"name": "SnapSVGAnimatorRuntime",
+	"name": "snap-animator",
 	"version": "1.0.0",
-	"main": "dist/snap.svg-animator.min.js",
+	"main": "dist/snap-animator.min.js",
 	"dependencies": {
 		"cloudkid-namespace": "*",
 		"Snap.svg": "*"
