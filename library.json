@@ -1,0 +1,19 @@
+{
+	"name": "SnapSVGAnimatorRuntime",
+	"version": "1.0.0",
+	"description": "Snap.SVG Animator Runtime",
+	"url": "https://github.com/CloudKidStudio/SnapSVGAnimatorRuntime",
+	"output": "snap-animator",
+	"main": [
+		"src/polyfills/requestAnimFrame.js",
+		"src/utils/TimeUtils.js",
+		"src/events/EventDispatcher.js",
+		"src/data/ResourceManager.js",
+		"src/display/DisplayObject.js",
+		"src/display/Shape.js",
+		"src/utils/GarbagePool.js",
+		"src/data/Commands.js",
+		"src/display/Movieclip.js",
+		"src/display/Stage.js"
+	]
+}

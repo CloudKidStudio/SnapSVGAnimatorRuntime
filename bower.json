@@ -1,0 +1,22 @@
+{
+	"name": "SnapSVGAnimatorRuntime",
+	"version": "1.0.0",
+	"main": "dist/snap.svg-animator.min.js",
+	"dependencies": {
+		"cloudkid-namespace": "*",
+		"Snap.svg": "*"
+	},
+	"devDependencies": {
+		"qunit": "*",
+		"bind-polyfill": "*"
+	},
+	"ignore": [
+		"Gruntfile.js",
+		"build.json",
+		"tasks",
+		"examples",
+		"docs",
+		"src",
+		"test"
+	]
+}
